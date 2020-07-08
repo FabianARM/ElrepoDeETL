@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1022
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "tercer intento de carga de datos", "tercer intento de carga de datos\tercer intento de carga de datos.dtproj", "{C2748B51-59D7-44F9-B560-E73B08389FB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2748B51-59D7-44F9-B560-E73B08389FB8}.Development|Default.ActiveCfg = Development
+		{C2748B51-59D7-44F9-B560-E73B08389FB8}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CB73C64-9CF0-46DD-93AA-450096E00854}
+	EndGlobalSection
+EndGlobal
